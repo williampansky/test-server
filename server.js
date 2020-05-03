@@ -1,7 +1,7 @@
 // import path from 'path';
 // const express = require('express');
 import { Server } from 'boardgame.io/server';
-import TicTacToe from './components/game.js';
+import TicTacToe from './game.js';
 // const Server = require('boardgame.io/server').Server;
 // const TicTacToe = require('./components/game.js').TicTacToe;
 
